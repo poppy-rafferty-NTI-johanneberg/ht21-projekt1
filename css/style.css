@@ -3,11 +3,14 @@
 
  
   background-color: rgb(252, 202, 145);
+  background-image: url(../img/flaggor.jpeg);
+  background-position: center;
    width: 100wh;
    height: 150px;
    display: flex;
    justify-content: center;
-   border: solid 3px black;
+   color: rgb(0, 0, 0);
+   border: solid 3px rgb(0, 0, 0);
    font-size:  100px;
    font-style: oblique;
    align-items: center;
@@ -15,7 +18,7 @@
 
  
 nav {
-   background-color: rgb(250, 168, 129);
+   background-color: rgb(178, 203, 250);
    height: 100px;
    display: flex;
    justify-content: center;
@@ -26,7 +29,7 @@ nav {
  
 }
 #meny1 {
-   background-color: rgb(167, 183, 252);
+   background-color: rgb(11, 36, 148);
    height: 250px;
    width: 100vh;
    display: flex;
@@ -39,7 +42,7 @@ nav {
  }
  
 #meny2 {
-   background-color: rgb(241, 147, 186);
+   background-color: rgb(127, 165, 236);
    height: 250px;
    width: 100vh;
    font-size: 75px;
@@ -47,7 +50,10 @@ nav {
    color: white;
    display: flex;
    justify-content: center;
+   color: white;
    font-style: oblique;
+   background-image: url(../img/sushi.jpeg);
+   background-size: 100% 100%;
 }
  
 #lador {
@@ -60,7 +66,7 @@ border: solid 3px black;
  
 #meny3 {
  
-   background-color: rgb(188, 238, 230);
+   background-color: rgb(23, 24, 112);
    height: 250px;
    width: 150px;
    flex: auto;
@@ -69,13 +75,14 @@ border: solid 3px black;
    color: black;
    display: flex;
    justify-content: center;
+   color: white;
    font-style: oblique;
    padding: 10px;
 }
  
 #meny4 {
  
-   background-color: rgb(142, 202, 179);
+   background-color:rgb(178, 203, 250);
    height: 250px;
    width: 150px;
    flex: auto;
@@ -91,7 +98,7 @@ border: solid 3px black;
  
 #meny5 {
  
-   background-color: rgb(155, 238, 224);
+   background-color: rgb(23, 24, 112);
    height: 250px;
    width: 150px;
    flex: auto;
@@ -100,6 +107,7 @@ border: solid 3px black;
    color: black;
    display: flex;
    justify-content: center;
+   color: white;
    font-style: oblique;
    padding: 10px;
 }
@@ -114,11 +122,12 @@ border: solid 3px black;
 }
  
 #take {
-   background-color: rgb(121, 199, 163);
+   background-color: rgb(146, 177, 245);
    width: 100wh;
    height: 150px;
    display: flex;
    justify-content: center;
+   color: white;
    font-size:  100px;
    font-style: oblique;
    align-items: center;
@@ -126,10 +135,18 @@ border: solid 3px black;
 }
  
 #social {
-   background-color: rgb(108, 163, 137);
+   background-color: rgb(146, 177, 245);
    width: 100wh;
    height: 100px;
    font-size: 30px;
    display: flex;
    justify-content: center;
+   color: black;
+}
+#logo {
+
+width: 40px;
+height: 40px;
+margin-left: 10px;
+
 }
