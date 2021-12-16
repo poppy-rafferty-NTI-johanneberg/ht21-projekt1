@@ -1,0 +1,135 @@
+ 
+  header {
+
+ 
+  background-color: rgb(252, 202, 145);
+   width: 100wh;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   border: solid 3px black;
+   font-size:  100px;
+   font-style: oblique;
+   align-items: center;
+   }
+
+ 
+nav {
+   background-color: rgb(250, 168, 129);
+   height: 100px;
+   display: flex;
+   justify-content: center;
+   border: solid 3px black;
+   align-items: center;
+   font-size: 30px;
+   font-style: oblique;
+ 
+}
+#meny1 {
+   background-color: rgb(167, 183, 252);
+   height: 250px;
+   width: 100vh;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+   color: white;
+  font-size: 30px;
+  font-style: oblique;
+ 
+ }
+ 
+#meny2 {
+   background-color: rgb(241, 147, 186);
+   height: 250px;
+   width: 100vh;
+   font-size: 75px;
+   align-items: center;
+   color: white;
+   display: flex;
+   justify-content: center;
+   font-style: oblique;
+}
+ 
+#lador {
+   display: flex;
+justify-content:space-around;
+border: solid 3px black;
+ 
+ 
+}
+ 
+#meny3 {
+ 
+   background-color: rgb(188, 238, 230);
+   height: 250px;
+   width: 150px;
+   flex: auto;
+   font-size: 30px;
+   align-items: center;
+   color: black;
+   display: flex;
+   justify-content: center;
+   font-style: oblique;
+   padding: 10px;
+}
+ 
+#meny4 {
+ 
+   background-color: rgb(142, 202, 179);
+   height: 250px;
+   width: 150px;
+   flex: auto;
+   font-size: 30px;
+   align-items: center;
+   color: black;
+   display: flex;
+   justify-content: center;
+   font-style: oblique;
+   padding: 10px;
+ 
+}
+ 
+#meny5 {
+ 
+   background-color: rgb(155, 238, 224);
+   height: 250px;
+   width: 150px;
+   flex: auto;
+   font-size: 30px;
+   align-items: center;
+   color: black;
+   display: flex;
+   justify-content: center;
+   font-style: oblique;
+   padding: 10px;
+}
+ 
+#katt {
+   display: flex;
+   justify-content: first baseline;
+   height: auto;
+   width: auto;
+   border: solid 3px black;
+ 
+}
+ 
+#take {
+   background-color: rgb(121, 199, 163);
+   width: 100wh;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   font-size:  100px;
+   font-style: oblique;
+   align-items: center;
+ 
+}
+ 
+#social {
+   background-color: rgb(108, 163, 137);
+   width: 100wh;
+   height: 100px;
+   font-size: 30px;
+   display: flex;
+   justify-content: center;
+}
